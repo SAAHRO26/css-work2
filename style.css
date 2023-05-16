@@ -1,0 +1,158 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    width: 100%;
+    background: #262626;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+
+}
+
+
+
+ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+
+}
+
+li{
+float: left;
+
+
+}
+.h3{
+    color: lightskyblue;
+}
+
+a{
+padding: 20px;
+width: 100px;
+display: block;
+text-decoration: none;
+color: #fff;
+text-transform: uppercase;
+font-weight: bold;
+}
+
+
+#section1{
+    height: 700px;
+    background-image: url("https://foni.club/uploads/posts/2023-02/1676119457_foni-club-p-krasivie-oboi-uzbekistana-8.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    display: inline-block;
+    width: 100%;
+    font-size: 40px;
+    color: black;
+}
+.com{
+    
+    color: black;
+    font-size: 27px;
+    text-align: center;
+    margin: 230px 20px;
+   
+}
+
+#section2{
+    height: 700px;
+    background-image: url("https://www.sammitc.uz/images/20-01-16/12.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+    width: 100%;
+}
+
+.com2{
+color: black;
+font-size: 19px;
+text-align: center;
+margin: 230px 20px;
+
+
+
+}
+
+#section3{
+    height: 700px;
+    background-image: url("https://avatars.mds.yandex.net/get-pdb/470516/df416e06-7a94-481f-885e-49e2ae026744/s1200");
+    background-repeat:no-repeat;
+    background-size: cover;
+    display: inline-block;
+    width: 100%;
+}
+
+#section4{
+    height: 700px;
+    background-image: url("https://www.graphicmaps.com/r/w1047-h739-c1047x739-q100/images/maps/UZ.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+    display: inline-block;
+    width: 100%;
+}
+.com3{
+
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    margin: 270px 20px;
+    
+   
+
+}
+
+#section5{
+    height: 700px;
+    background-image: url("https://old.stgmu.ru/userfiles/depts/site_news/2021/foto---muzei-Uzbekistana-v-Google.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+    width: 100%;
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+}
+.com5{
+font-style: normal;
+color: rgb(168, 177, 188);
+font-size: 50px;
+text-align: center;
+margin-top: 230px 20px;
+
+}
+
+.com6{
+    font-style: normal;
+    color: rgb(168, 177, 188);
+    font-size: 50px;
+    text-align: center;
+    margin-top: 270px 20px;
+
+}
+.com7{
+
+    font-style: normal;
+color: rgb(168, 177, 188);
+font-size: 50px;
+text-align: center;
+margin-top: 310px 20px;
+}
+
+h1{
+margin: 100px;
+text-align: center;
+padding: 0;
+
+}
+
+
+
+
+
